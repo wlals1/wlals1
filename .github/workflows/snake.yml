@@ -13,11 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
+
+      # animated snake (svg + gif)
+      - uses: Platane/snk@v3
         with:
           github_user_name: wlals1
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
