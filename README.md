@@ -34,4 +34,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/wlals1/wlals1/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/wlals1/wlals1/output/github-contribution-grid-snake.svg)
