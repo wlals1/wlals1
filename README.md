@@ -37,4 +37,3 @@ cat > README.md <<'EOF'
 ## 🐍 Contribution Snake
 
 ![snake](https://github.com/wlals1/wlals1/blob/output/github-contribution-grid-snake.svg)
-EOF
