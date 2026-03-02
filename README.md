@@ -21,8 +21,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wlals1&show_icons=true&theme=catppuccin_mocha)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlals1&layout=compact&theme=catppuccin_mocha)
+![GitHub Stats](https://github-readme-stats-puce-one-83.vercel.app/api?username=wlals1&show_icons=true&theme=catppuccin_mocha)
+
+![Top Langs](https://github-readme-stats-puce-one-83.vercel.app/api/top-langs/?username=wlals1&layout=compact&theme=catppuccin_mocha)
 
 ---
 
