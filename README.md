@@ -1,5 +1,3 @@
-cat > README.md <<'EOF'
-
 # 🔥 Jimin Yeom
 
 > Code with fire. Grow with wisdom.
